@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+float price(string type_of_room, string month, string time, float price);
+main()
+{
+ string type_of_room;
+ string month;
+ string time;
+ float price;
+ float price_after_discount;
+ float discount;
+ int stays;
+ cout<<"enter the month:";
+ cin>>month;
+ cout<<"enter the time:";
+ cin>>time;
+ cout<<"enter the price:";
+ cin>>price;
+ 
+
+
+
+
+
+}
